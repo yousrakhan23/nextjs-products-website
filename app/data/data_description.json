@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Palm Oil Products",
+            "slug": "palm-oil-products",
+            "description": "Palm oil products are used in a variety of applications.",
+            "price": 500,
+            "instructor": "Samra",
+            "image": "https://example.com/image1.jpg",
+            "category": "Palm Oil",
+            "isFeatured": "true"
+
+        },
+        {
+           "id": 2,
+            "title": "Palm Oil Products",
+            "slug": "palm-oil-products",
+            "description": "Palm oil products are used in a variety of applications.",
+            "price": 500,
+            "instructor": "Samra",
+            "image": "https://example.com/image1.jpg",
+            "category": "Palm Oil",
+            "isFeatured": "true"
+ 
+        },
+        {
+            "id": 3,
+            "title": "Palm Oil Products",
+            "slug": "palm-oil-products",
+            "description": "Palm oil products are used in a variety of applications.",
+            "price": 500,
+            "instructor": "Samra",
+            "image": "https://example.com/image1.jpg",
+            "category": "Palm Oil",
+            "isFeatured": "true"
+
+        },
+        {
+            "id": 4,
+            "title": "Palm Oil Products",
+            "slug": "palm-oil-products",
+            "description": "Palm oil products are used in a variety of applications.",
+            "price": 500,
+            "instructor": "Samra",
+            "image": "https://example.com/image1.jpg",
+            "category": "Palm Oil",
+            "isFeatured": "true"
+
+        }
+    ]
+}
