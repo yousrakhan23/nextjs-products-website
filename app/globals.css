@@ -3,11 +3,13 @@
 @tailwind utilities;
 
 body{
-  background-image: url(seeds1.jpg);
+  background-image: url(bgImg.png);
+  background-position: center;
   background-repeat: no-repeat;
-  background-position-x: center;
-  color:rgb(210, 146, 7) ;
+  color:rgb(157, 88, 3) ;
+  background-size: cover;
 }
+
 h2{
   color:rgb(58, 39, 0);
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -15,3 +17,24 @@ h2{
   font-style:italic;
   
 }
+
+
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: url('seeds2.jpg');
+  
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-position: center;
+  color: rgb(210, 146, 7);
+}
+
+h2 {
+  color: rgb(58, 39, 0);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 500;
+  font-style: italic;
+} */

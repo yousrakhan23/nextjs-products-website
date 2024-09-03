@@ -4,49 +4,75 @@
             "id": 1,
             "title": "Palm Oil Products",
             "slug": "palm-oil-products",
-            "description": "Palm oil products are used in a variety of applications.",
-            "price": 500,
+            "description": "Almond oil products are used in a variety of applications.",
+            "price": 800,
             "instructor": "Samra",
-            "image": "https://example.com/image1.jpg",
-            "category": "Palm Oil",
-            "isFeatured": "true"
+            "category": "Pure Almond Oil",
+            "isFeatured": true
 
         },
         {
            "id": 2,
             "title": "Palm Oil Products",
             "slug": "palm-oil-products",
-            "description": "Palm oil products are used in a variety of applications.",
-            "price": 500,
+            "description": "Pure Mustard oil products are used in a variety of applications.",
+            "price": 800,
             "instructor": "Samra",
             "image": "https://example.com/image1.jpg",
-            "category": "Palm Oil",
-            "isFeatured": "true"
+            "category": "Pure Mustard Oil",
+            "isFeatured": true
  
         },
         {
             "id": 3,
             "title": "Palm Oil Products",
             "slug": "palm-oil-products",
-            "description": "Palm oil products are used in a variety of applications.",
-            "price": 500,
+            "description": "Pure Coconut oil products are used in a variety of applications.",
+            "price": 700,
             "instructor": "Samra",
             "image": "https://example.com/image1.jpg",
-            "category": "Palm Oil",
-            "isFeatured": "true"
+            "category": "Pure Coconut Oil",
+            "isFeatured": true
 
         },
         {
             "id": 4,
             "title": "Palm Oil Products",
             "slug": "palm-oil-products",
-            "description": "Palm oil products are used in a variety of applications.",
-            "price": 500,
+            "description": "Pure Sesame oil products are used in a variety of applications.",
+            "price": 900,
             "instructor": "Samra",
             "image": "https://example.com/image1.jpg",
-            "category": "Palm Oil",
-            "isFeatured": "true"
+            "category": "Pure Sesame Oil",
+            "isFeatured": true
+
+        },
+        {
+            "id": 5,
+            "title": "Shampoo",
+            "slug": "shampoo-products",
+            "description": "Pure Sesame oil products are used in a variety of applications.",
+            "price": 900,
+            "instructor": "Samra",
+            "image": "https://example.com/image1.jpg",
+            "category": "Shampoo",
+            "isFeatured": true
+
+        },
+        {
+            "id": 6,
+            "title": "Conditioner",
+            "slug": "conditioner-products",
+            "description": "Pure Sesame oil products are used in a variety of applications.",
+            "price": 900,
+            "instructor": "Samra",
+            "image": "https://example.com/image1.jpg",
+            "category": "Conditioner",
+            "isFeatured": true
 
         }
+        
+
+        
     ]
 }

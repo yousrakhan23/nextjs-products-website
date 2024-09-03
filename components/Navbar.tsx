@@ -19,11 +19,13 @@ export default function Navbar({ className }: { className?: string }) {
         <Link href={"/"}><MenuItem setActive={setActive} active={active} item=""></MenuItem></Link>
 
         <MenuItem setActive={setActive} active={active} item="Our Products">
-          <div className="flex flex-col space-y-4 text-sm">
+          <div className="flex flex-col space-y-4 text-sm font-extrabold ">
 
-            <HoveredLink href="/products">Shampoo</HoveredLink>
-            <HoveredLink href="/products">Conditioner</HoveredLink>
-            <HoveredLink href="/products">Oil</HoveredLink>
+            <ul>Shampoo</ul>
+            <ul>Conditioner</ul>
+            <ul>Different Oils</ul>
+            
+            
           </div>
         </MenuItem>
         <Link href={"/contact us"}></Link>
