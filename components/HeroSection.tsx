@@ -1,5 +1,4 @@
-import { imageConfigDefault } from "next/dist/shared/lib/image-config";
-import { BackgroundGradient } from "./ui/background-gradient";
+
 import Image from "next/image";
 const HeroSection = () => {
     return (
@@ -11,34 +10,14 @@ const HeroSection = () => {
 
                 <div className="w-full md:w-1/2 lg:w-1/4 p-4">
                     <Image
-                        src="./public/Images/img1.jpg"
-                        alt="Image 2"
+                        src="./images.img1.jpg"
+                        alt="Image 1"
                         width={300}
                         height={300}
                         className="rounded-lg shadow-md"
                     />
                 </div>
 
-
-                <div className="w-full md:w-1/2 lg:w-1/4 p-4">
-                    <Image
-                        src="/images/image2.jpg"
-                        alt="Image 2"
-                        width={300}
-                        height={300}
-                        className="rounded-lg shadow-md"
-                    />
-                </div>
-
-                <div className="w-full md:w-1/2 lg:w-1/4 p-4">
-                    <Image
-                        src="/images/image4.jpg"
-                        alt="Image 4"
-                        width={300}
-                        height={300}
-                        className="rounded-lg shadow-md"
-                    />
-                </div>
 
             </section>
         
