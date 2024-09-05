@@ -6,8 +6,8 @@ import Navbar from "@/components/Navbar";
 
 
 
-import { log } from "console";
-import { title } from "process";
+// import { log } from "console";
+// import { title } from "process";
 
 export default function Home() {
   return (
